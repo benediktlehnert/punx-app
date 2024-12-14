@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/punx-app/static/css/main.bb88622a.css",
-    "main.js": "/punx-app/static/js/main.96d8c006.js",
+    "main.css": "/punx-app/static/css/main.3f6616da.css",
+    "main.js": "/punx-app/static/js/main.55e30d9b.js",
     "static/media/Ex-default.png": "/punx-app/static/media/Ex-default.718275f68730bd5c3795.png",
     "static/media/Ex-sad.png": "/punx-app/static/media/Ex-sad.3964e933eb79629e4b46.png",
     "static/media/Quest-happy.png": "/punx-app/static/media/Quest-happy.3fbab4f0588790bf7fcf.png",
@@ -19,11 +19,11 @@
     "static/media/rethink-sans-extrabold.ttf": "/punx-app/static/media/rethink-sans-extrabold.7add1afa5662bdd0ae71.ttf",
     "static/media/punx-grotesk-regular.otf": "/punx-app/static/media/punx-grotesk-regular.0e28197bdace9691b634.otf",
     "index.html": "/punx-app/index.html",
-    "main.bb88622a.css.map": "/punx-app/static/css/main.bb88622a.css.map",
-    "main.96d8c006.js.map": "/punx-app/static/js/main.96d8c006.js.map"
+    "main.3f6616da.css.map": "/punx-app/static/css/main.3f6616da.css.map",
+    "main.55e30d9b.js.map": "/punx-app/static/js/main.55e30d9b.js.map"
   },
   "entrypoints": [
-    "static/css/main.bb88622a.css",
-    "static/js/main.96d8c006.js"
+    "static/css/main.3f6616da.css",
+    "static/js/main.55e30d9b.js"
   ]
 }
