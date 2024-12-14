@@ -1,17 +1,21 @@
 {
   "files": {
-    "main.css": "/punx-app/static/css/main.b1295f87.css",
-    "main.js": "/punx-app/static/js/main.52d0d380.js",
+    "main.css": "/punx-app/static/css/main.f491cc5d.css",
+    "main.js": "/punx-app/static/js/main.97e8c6f9.js",
+    "static/media/Ex-1.png": "/punx-app/static/media/Ex-1.3964e933eb79629e4b46.png",
+    "static/media/Quest-1.png": "/punx-app/static/media/Quest-1.6f3b14e1d65575342a13.png",
+    "static/media/Curly-1.png": "/punx-app/static/media/Curly-1.99d667df8d30b4a73239.png",
     "static/media/bookman-old-style-italic.ttf": "/punx-app/static/media/bookman-old-style-italic.371fbca8426137a554e8.ttf",
+    "static/media/Peri-1.png": "/punx-app/static/media/Peri-1.d55357ed02c71c246a9e.png",
     "static/media/bookman-old-style-regular.otf": "/punx-app/static/media/bookman-old-style-regular.c7f3c46c993f41284f63.otf",
     "static/media/rethink-sans-extrabold.ttf": "/punx-app/static/media/rethink-sans-extrabold.7add1afa5662bdd0ae71.ttf",
     "static/media/punx-grotesk-regular.otf": "/punx-app/static/media/punx-grotesk-regular.0e28197bdace9691b634.otf",
     "index.html": "/punx-app/index.html",
-    "main.b1295f87.css.map": "/punx-app/static/css/main.b1295f87.css.map",
-    "main.52d0d380.js.map": "/punx-app/static/js/main.52d0d380.js.map"
+    "main.f491cc5d.css.map": "/punx-app/static/css/main.f491cc5d.css.map",
+    "main.97e8c6f9.js.map": "/punx-app/static/js/main.97e8c6f9.js.map"
   },
   "entrypoints": [
-    "static/css/main.b1295f87.css",
-    "static/js/main.52d0d380.js"
+    "static/css/main.f491cc5d.css",
+    "static/js/main.97e8c6f9.js"
   ]
 }
