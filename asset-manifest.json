@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/punx-app/static/css/main.724ee616.css",
-    "main.js": "/punx-app/static/js/main.3c9898ec.js",
+    "main.js": "/punx-app/static/js/main.52d0d380.js",
     "index.html": "/punx-app/index.html",
     "main.724ee616.css.map": "/punx-app/static/css/main.724ee616.css.map",
-    "main.3c9898ec.js.map": "/punx-app/static/js/main.3c9898ec.js.map"
+    "main.52d0d380.js.map": "/punx-app/static/js/main.52d0d380.js.map"
   },
   "entrypoints": [
     "static/css/main.724ee616.css",
-    "static/js/main.3c9898ec.js"
+    "static/js/main.52d0d380.js"
   ]
 }
